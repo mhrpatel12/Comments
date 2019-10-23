@@ -1,0 +1,149 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/eaf1b748186b44c619bf92a41f832fe5/appcompat-v7-25.4.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v4:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/a4ee8daff727c2edb115a80792c2e9ae/support-v4-25.4.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/04e2b1fc6f31397a48fd82eb8da91e2b/recyclerview-v7-25.4.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/bd371aa3e7a9279793a2e6c161ab23e1/animated-vector-drawable-25.4.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/cd7a31d2acfc5108eed7b05014d381a5/support-vector-drawable-25.4.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/76d5260e0782aa812cf8baad5d5275f3/support-fragment-25.4.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/026386131f6ea0ab96ee778f8daba6c2/support-media-compat-25.4.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/7f9287cc2a51ea393688c0d8e7e08ab9/support-core-utils-25.4.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/ba4fcc3494efea9bd8f61b964712c5c6/support-core-ui-25.4.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/d46ca0d1e5a67cb70c25a5bbeeb7f129/support-compat-25.4.0/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml:5:5-25:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/eaf1b748186b44c619bf92a41f832fe5/appcompat-v7-25.4.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/eaf1b748186b44c619bf92a41f832fe5/appcompat-v7-25.4.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/a4ee8daff727c2edb115a80792c2e9ae/support-v4-25.4.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/a4ee8daff727c2edb115a80792c2e9ae/support-v4-25.4.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/04e2b1fc6f31397a48fd82eb8da91e2b/recyclerview-v7-25.4.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/04e2b1fc6f31397a48fd82eb8da91e2b/recyclerview-v7-25.4.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/bd371aa3e7a9279793a2e6c161ab23e1/animated-vector-drawable-25.4.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/bd371aa3e7a9279793a2e6c161ab23e1/animated-vector-drawable-25.4.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/cd7a31d2acfc5108eed7b05014d381a5/support-vector-drawable-25.4.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/cd7a31d2acfc5108eed7b05014d381a5/support-vector-drawable-25.4.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/76d5260e0782aa812cf8baad5d5275f3/support-fragment-25.4.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/76d5260e0782aa812cf8baad5d5275f3/support-fragment-25.4.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/026386131f6ea0ab96ee778f8daba6c2/support-media-compat-25.4.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/026386131f6ea0ab96ee778f8daba6c2/support-media-compat-25.4.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/7f9287cc2a51ea393688c0d8e7e08ab9/support-core-utils-25.4.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/7f9287cc2a51ea393688c0d8e7e08ab9/support-core-utils-25.4.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/ba4fcc3494efea9bd8f61b964712c5c6/support-core-ui-25.4.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/ba4fcc3494efea9bd8f61b964712c5c6/support-core-ui-25.4.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/d46ca0d1e5a67cb70c25a5bbeeb7f129/support-compat-25.4.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/d46ca0d1e5a67cb70c25a5bbeeb7f129/support-compat-25.4.0/AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml:12:9-40
+	android:name
+		ADDED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml:6:9-58
+activity#com.mihir.comments.MainActivity
+ADDED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml:13:19-65
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml:17:27-74
+activity#com.mihir.comments.CommentsActivity
+ADDED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml:20:9-24:20
+	android:theme
+		ADDED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml:22:13-64
+	android:name
+		ADDED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml:21:13-63
+uses-sdk
+INJECTED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/eaf1b748186b44c619bf92a41f832fe5/appcompat-v7-25.4.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/eaf1b748186b44c619bf92a41f832fe5/appcompat-v7-25.4.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/a4ee8daff727c2edb115a80792c2e9ae/support-v4-25.4.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/a4ee8daff727c2edb115a80792c2e9ae/support-v4-25.4.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/04e2b1fc6f31397a48fd82eb8da91e2b/recyclerview-v7-25.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/04e2b1fc6f31397a48fd82eb8da91e2b/recyclerview-v7-25.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/bd371aa3e7a9279793a2e6c161ab23e1/animated-vector-drawable-25.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/bd371aa3e7a9279793a2e6c161ab23e1/animated-vector-drawable-25.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/cd7a31d2acfc5108eed7b05014d381a5/support-vector-drawable-25.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/cd7a31d2acfc5108eed7b05014d381a5/support-vector-drawable-25.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/76d5260e0782aa812cf8baad5d5275f3/support-fragment-25.4.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/76d5260e0782aa812cf8baad5d5275f3/support-fragment-25.4.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/026386131f6ea0ab96ee778f8daba6c2/support-media-compat-25.4.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/026386131f6ea0ab96ee778f8daba6c2/support-media-compat-25.4.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/7f9287cc2a51ea393688c0d8e7e08ab9/support-core-utils-25.4.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/7f9287cc2a51ea393688c0d8e7e08ab9/support-core-utils-25.4.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/ba4fcc3494efea9bd8f61b964712c5c6/support-core-ui-25.4.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/ba4fcc3494efea9bd8f61b964712c5c6/support-core-ui-25.4.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/d46ca0d1e5a67cb70c25a5bbeeb7f129/support-compat-25.4.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/d46ca0d1e5a67cb70c25a5bbeeb7f129/support-compat-25.4.0/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/eaf1b748186b44c619bf92a41f832fe5/appcompat-v7-25.4.0/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mihir/StudioProjects/Comments/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/eaf1b748186b44c619bf92a41f832fe5/appcompat-v7-25.4.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/a4ee8daff727c2edb115a80792c2e9ae/support-v4-25.4.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/a4ee8daff727c2edb115a80792c2e9ae/support-v4-25.4.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/04e2b1fc6f31397a48fd82eb8da91e2b/recyclerview-v7-25.4.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/04e2b1fc6f31397a48fd82eb8da91e2b/recyclerview-v7-25.4.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/bd371aa3e7a9279793a2e6c161ab23e1/animated-vector-drawable-25.4.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/bd371aa3e7a9279793a2e6c161ab23e1/animated-vector-drawable-25.4.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/cd7a31d2acfc5108eed7b05014d381a5/support-vector-drawable-25.4.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/cd7a31d2acfc5108eed7b05014d381a5/support-vector-drawable-25.4.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/76d5260e0782aa812cf8baad5d5275f3/support-fragment-25.4.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/76d5260e0782aa812cf8baad5d5275f3/support-fragment-25.4.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/026386131f6ea0ab96ee778f8daba6c2/support-media-compat-25.4.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/026386131f6ea0ab96ee778f8daba6c2/support-media-compat-25.4.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/7f9287cc2a51ea393688c0d8e7e08ab9/support-core-utils-25.4.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/7f9287cc2a51ea393688c0d8e7e08ab9/support-core-utils-25.4.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/ba4fcc3494efea9bd8f61b964712c5c6/support-core-ui-25.4.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/ba4fcc3494efea9bd8f61b964712c5c6/support-core-ui-25.4.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/d46ca0d1e5a67cb70c25a5bbeeb7f129/support-compat-25.4.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/d46ca0d1e5a67cb70c25a5bbeeb7f129/support-compat-25.4.0/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/eaf1b748186b44c619bf92a41f832fe5/appcompat-v7-25.4.0/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.4.0] /Users/mihir/.gradle/caches/transforms-2/files-2.1/eaf1b748186b44c619bf92a41f832fe5/appcompat-v7-25.4.0/AndroidManifest.xml:27:13-51
