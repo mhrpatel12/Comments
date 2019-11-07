@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
     private RecyclerView mRecyclerView;
     private List<String> dataList;
+    private TextView txtUpdate;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -24,12 +25,21 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         mRecyclerView = (RecyclerView) findViewById(R.id.recyclerView);
+        txtUpdate = (TextView) findViewById(R.id.txtUpdate);
         mRecyclerView.setLayoutManager(new LinearLayoutManager(this));
         dataList = new ArrayList<>();
-        for (int i = 1; i < 30; i++) {
+        for (int i = 1; i < 100; i++) {
             dataList.add("Post " + i + " CLICK TO OPEN");
         }
         mRecyclerView.setAdapter(adapter);
+        mRecyclerView.smoothScrollToPosition(97);
+        txtUpdate.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                dataList.set(95, "UPDATED AND NOT SCROLLED TO TOP");
+                adapter.notifyDataSetChanged();
+            }
+        });
     }
 
     private RecyclerView.Adapter<ViewHolder> adapter = new RecyclerView.Adapter<ViewHolder>() {
