@@ -319,6 +319,7 @@ public class SwipeDismissLayout extends ViewGroup {
 
     public void finish() {
         ((Activity) getContext()).finish();
+        ((Activity) getContext()).overridePendingTransition(0, 0);
     }
 
     private boolean isSwipeEnabled() {
